@@ -84,6 +84,7 @@ AI-ассистент для стримера, который:
 
     CLIENT_ID=your_client_id
     CLIENT_SECRET=your_client_secret
+    OAUTH_CODE=your_oauth_code
     OLLAMA_MODEL=llama3.1:8b
     VOICE=ru-RU-SvetlanaNeural
 
